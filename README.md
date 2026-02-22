@@ -11,8 +11,8 @@ Flexbox & Grid
 
 
 ## 📑 Sections Designed
-Navigation Bar
-Hero Section
-Features Section
-Documentation Preview
+Navigation Bar <br>
+Hero Section <br>
+Features Section <br>
+Documentation Preview <br>
 Footer
